@@ -141,3 +141,10 @@ body, html {
 p{
     margin: 1em 5em 1em 5em;
 }
+#con {
+    margin: auto;
+}
+.card {
+    margin: 2em;
+    float: right;
+}
